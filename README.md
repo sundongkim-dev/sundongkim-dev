@@ -1,4 +1,4 @@
-[!header]("https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sundong Github!&fontSize=90")
+[!header]("https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sundong%27s+Github!&fontSize=90")
 
 <p align="center">
 안녕하세요! 현재 백엔드를 개발자를 목표로 공부하고 있는 김선동입니다!
